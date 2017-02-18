@@ -1,0 +1,10 @@
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\bin\Release\MaxTextbox.dll
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\bin\Release\MaxTextbox.pdb
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\bin\Release\MaxTextbox.xml
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.Resources.resources
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.MaxText.resources
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.vbproj.GenerateResource.Cache
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.dll
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.xml
+C:\Users\hmouissa\Documents\Visual Studio 2005\Projects\MaxTextbox\MaxTextbox\obj\Release\MaxTextbox.pdb
